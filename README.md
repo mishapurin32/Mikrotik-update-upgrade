@@ -2,7 +2,7 @@
 
 >RU:
 ```
-Проверено на версиях RouterOS: 
+Проверено на RouterOS версий: 
 
   ● 7.10.2
   ● 7.11
@@ -13,7 +13,7 @@
  ___
 >EN:
 ```
-Tested on versions RouterOS:
+Tested on RouterOS versions:
 
   ● 7.10.2
   ● 7.11
