@@ -1,9 +1,15 @@
 :log/warning message="Script is running!";
+
+# Change channel to (long term/stable/testing/development), if you need another version
 :system/package/update set channel=stable;
-:delay 5;
+:delay 3;
 :global Ver value=[system/package/update/get status];
+:delay 3;
 :global Ch value=[system/package/update/get channel];
+:delay 3;
 :global Nver value=[system/package/update/get latest-version];
+:log/warning message="Checking for new versions"
+:delay 10;
 
 :if ($Ver = "New version is available") do={
 :log/warning message="New version is available, channel: $Ch, new version: $Nver is installing...";
