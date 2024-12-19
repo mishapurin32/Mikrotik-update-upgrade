@@ -3,7 +3,6 @@
 >RU:
 ```
 Проверено на RouterOS 7
-
 ```
 Как использовать:
 
@@ -12,7 +11,6 @@
 >EN:
 ```
 Tested on RouterOS 7
-
 ```
 How to use:
 
