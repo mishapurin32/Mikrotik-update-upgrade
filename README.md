@@ -1,15 +1,8 @@
-# Mikrotik update & upgrade script v1.2
+# Mikrotik update & upgrade script v1.0 release
 
 >RU:
 ```
-Проверено на RouterOS версий: 
-
-  ● 7.14.1
-  ● 7.14.2
-  ● 7.14.3
-  ● 7.15
-  ● 7.15.1
-  ● 7.15.2
+Проверено на RouterOS 7
 
 ```
 Как использовать:
@@ -18,14 +11,7 @@
  ___
 >EN:
 ```
-Tested on RouterOS versions:
-
-  ● 7.14.1
-  ● 7.14.2
-  ● 7.14.3
-  ● 7.15
-  ● 7.15.1
-  ● 7.15.2
+Tested on RouterOS 7
 
 ```
 How to use:
